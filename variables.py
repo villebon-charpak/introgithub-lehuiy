@@ -24,8 +24,7 @@
 
 # ... Écrivez votre code ici ...
 
-
-
+ma_variable = 9
 print(ma_variable)
 
 
@@ -40,7 +39,7 @@ print(ma_variable)
 # ... Écrivez votre code ici ...
 
 texte = "Salut !"
-
+print (texte)
 
 
 # Exercice 1.3

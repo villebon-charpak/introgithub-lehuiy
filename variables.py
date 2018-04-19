@@ -54,9 +54,9 @@ print (texte)
 
 nombre = 2 # ne pas toucher à cette ligne !
 
-
-
 print(nombre)
+nombre += 3
+
 
 
 # Exercice 1.4
@@ -70,6 +70,10 @@ print(nombre)
 
 
 # ... Écrivez votre code ici ...
+nombre_de_clients = 0
+nombre_de_clients += 2
+nombre_de_clients -= 1
+print (nombre_de_clients)
 
 
 
